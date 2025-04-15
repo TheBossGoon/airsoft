@@ -52,4 +52,5 @@ p{
   max-width: 50%;
   float: right;
   margin-left: 25px;
+  border: white 6px dashed;
 }
