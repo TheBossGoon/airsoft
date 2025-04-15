@@ -42,3 +42,14 @@ h1{
   align-items: center;
   text-decoration: underline;
 }
+p{
+  color: white;
+  text-align: justify;
+  font-size: 18px;
+}
+#csapat{
+  width: 400px;
+  max-width: 50%;
+  float: right;
+  margin-left: 25px;
+}
